@@ -1,8 +1,9 @@
 [
   {
+    "json": "[\"https://raw.githubusercontent.com/online-git-games/page1/main/index.html\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinner.css\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinner.png\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinnerjs.js\"]",
     "name": "اسپینر",
-    "value": "625 کیلوبایت",
-    "string": "[\"https://raw.githubusercontent.com/online-git-games/page1/main/index.html\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinner.css\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinner.png\",\"https://raw.githubusercontent.com/online-git-games/page1/main/spinnerjs.js\"]",
-    "image": "test"
+    "image": "https://raw.githubusercontent.com/online-git-games/page1/main/20230131_080158.jpg",
+    "number": "3",
+    "value": "625 کیلوبایت"
   }
 ]
